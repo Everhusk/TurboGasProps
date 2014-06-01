@@ -1,0 +1,38 @@
+                        Carleton University
+         Department of Mechanical and Aerospace Engineering
+                    TURBOGASPROPS - MECH 5401
+
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~New Fluid~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ CARBON DIOXIDE (CO2):
+
+ Molecular Weight:                    44.009799999999998      g/mol
+ Triple Point:                        216.59200000000001      K
+ Normal Sublimation Point:            194.75000000000000      K
+ Critical Temperature:                304.12819999999999      K
+ Critical Pressure:                   7377.3000000000002      kPa
+ Critical Density:                    467.60000128173994      kg/m^3
+ Gas Constant:                        8.3145100000000003      J/mol-K
+
+ Limits for this program:
+
+ Min Temperature:                     216.59200000000001      K
+ Max Temperature:                     2000.0000000000000      K
+ Max Density:                         37.240000000000002      kg/m^3
+ Max Pressure:                        800000.00000000000      kPa
+
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~New State Point~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Carbon Dioxide                
+ Temperature (K):    345.00000000000000     
+ Pressure (kPa):    101.00000000000000     
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Density, rho:                            1.5543731211395786      kg/m^3
+ Enthalpy, h:                             546.74113231650574      kJ/kg
+ Entropy, s:                              2.8647470000401736      kJ/kg-K
+ Specific Heat (Constant P), Cp:         0.89457918231465872      kJ/kg-K
+ Specific Heat (Constant V), Cv:         0.70283340578882458      kJ/kg-K
+ Speed of Sound, a:                       287.14093982582773      m/s
+ Internal Energy, e:                      481.76316877197883      kJ/kg
+ Viscosity, Mu:                           1.7167622790261795E-005 Pa-s
+ Thermal Conductivity, kappa:             2.0505124727214562E-002 W/m-k
+ Compressibility Factor, Z:              0.99691868514406201     
+  

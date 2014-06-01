@@ -1,0 +1,88 @@
+                        Carleton University
+         Department of Mechanical and Aerospace Engineering
+                    TURBOGASPROPS - MECH 5401
+
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~New Fluid~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ CARBON DIOXIDE (CO2):
+
+ Molecular Weight:                    44.009799999999998      g/mol
+ Triple Point:                        216.59200000000001      K
+ Normal Sublimation Point:            194.75000000000000      K
+ Critical Temperature:                304.12819999999999      K
+ Critical Pressure:                   7377.3000000000002      kPa
+ Critical Density:                    467.60000128173994      kg/m^3
+ Gas Constant:                        8.3145100000000003      J/mol-K
+
+ Limits for this program:
+
+ Min Temperature:                     216.59200000000001      K
+ Max Temperature:                     2000.0000000000000      K
+ Max Density:                         37.240000000000002      kg/m^3
+ Max Pressure:                        800000.00000000000      kPa
+
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~New State Point~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Carbon Dioxide                
+ Pressure (kPa):    8481.0000000000000     
+ Enthalpy (kJ/kg):    903.99000000000001     
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Temperature, T:                          705.16842490734075      K
+ Density, rho:                            63.566410327450562      kg/m^3
+ Entropy, s:                              2.7337016829270970      kJ/kg-K
+ Specific Heat (Constant P), Cp:          1.1715486901555228      kJ/kg-K
+ Specific Heat (Constant V), Cv:         0.94733719913241321      kJ/kg-K
+ Speed of Sound, a:                       407.20826854610732      m/s
+ Internal Energy, e:                      770.57047399734097      kJ/kg
+ Viscosity, Mu:                           3.2405055159301035E-005 Pa-s
+ Thermal Conductivity, kappa:             5.1560030700840073E-002 W/m-k
+ Compressibility Factor, Z:               1.0014730191342349     
+  
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~New State Point~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Carbon Dioxide                
+ Pressure (kPa):    1161.0000000000000     
+ Entropy (kJ/kg-k):    2.6850000000000001     
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Temperature, T:                          468.09642449617826      K
+ Density, rho:                            13.278640347049604      kg/m^3
+ Enthalpy, h:                             659.32452789629576      kJ/kg
+ Specific Heat (Constant P), Cp:          1.0105889484540296      kJ/kg-K
+ Specific Heat (Constant V), Cv:         0.80749385574142984      kJ/kg-K
+ Speed of Sound, a:                       328.93505730154135      m/s
+ Internal Energy, e:                      571.89087733748966      kJ/kg
+ Viscosity, Mu:                           2.2738776924079102E-005 Pa-s
+ Thermal Conductivity, kappa:             3.1166005601480688E-002 W/m-k
+ Compressibility Factor, Z:              0.98868062331078088     
+  
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~New Fluid~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ CARBON DIOXIDE (CO2):
+
+ Molecular Weight:                    44.009799999999998      g/mol
+ Triple Point:                        216.59200000000001      K
+ Normal Sublimation Point:            194.75000000000000      K
+ Critical Temperature:                304.12819999999999      K
+ Critical Pressure:                   7377.3000000000002      kPa
+ Critical Density:                    467.60000128173994      kg/m^3
+ Gas Constant:                        8.3145100000000003      J/mol-K
+
+ Limits for this program:
+
+ Min Temperature:                     216.59200000000001      K
+ Max Temperature:                     2000.0000000000000      K
+ Max Density:                         37.240000000000002      kg/m^3
+ Max Pressure:                        800000.00000000000      kPa
+
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~New State Point~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Carbon Dioxide                
+ Pressure (kPa):    1161.0000000000000     
+ Enthalpy (kJ/kg):    745.71799999999996     
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Temperature, T:                          551.56843890815333      K
+ Density, rho:                            11.199097114737471      kg/m^3
+ Entropy, s:                              2.8547265471365395      kJ/kg-K
+ Specific Heat (Constant P), Cp:          1.0587422425831765      kJ/kg-K
+ Specific Heat (Constant V), Cv:         0.86072944595798129      kJ/kg-K
+ Speed of Sound, a:                       356.19990637650920      m/s
+ Internal Energy, e:                      642.04892845787128      kJ/kg
+ Viscosity, Mu:                           2.6161334101386147E-005 Pa-s
+ Thermal Conductivity, kappa:             3.7949850632662131E-002 W/m-k
+ Compressibility Factor, Z:              0.99486129813513846     
+  
