@@ -1,33 +1,29 @@
 TurboGasProps
 =============
 
-This program can be used to determine all fluid properties given two
-given conditions.  For example, given temperature and pressure, TGP
-can determine the density, enthalpy, entropy, etc. at that condition.
-It can also be used to determine static conditions, given total conditions
-and speed, vice versa.
+This program can be used to determine all fluid properties given two given conditions.  For example, given temperature and pressure, TGP can determine the density, enthalpy, entropy, etc. at that condition.  It can also be used to determine static conditions, given total conditions and speed, vice versa.
 
 Included Files
 --------------
-(Fluid property files)
-AIR.PPF
-ARGON.FLD
-C12.FLD
-CO2.FLD
-FLUORINE.FLD
-HMX.BNC
-HYDROGEN.FLD
-METHANE.FLD
-NITROGEN.FLD
-OXYGEN.FLD
-PROPANE.FLD
-R134A.FLD
-WATER.FLD
-(Executable files)
-TurboGasProps32.exe (32 bit version)
-TurobGasProps64.exe (64 bit version)
-(Output files)
-There could be any number of other randomly named files (.txt or blank)
+(Fluid property files) 
+AIR.PPF 
+ARGON.FLD 
+C12.FLD 
+CO2.FLD 
+FLUORINE.FLD 
+HMX.BNC 
+HYDROGEN.FLD 
+METHANE.FLD 
+NITROGEN.FLD 
+OXYGEN.FLD 
+PROPANE.FLD 
+R134A.FLD 
+WATER.FLD 
+(Executable files) 
+TurboGasProps32.exe (32 bit version) 
+TurobGasProps64.exe (64 bit version) 
+(Output files) 
+There could be any number of other randomly named files (.txt or blank) 
 these are user generated files.
 
 How to use
