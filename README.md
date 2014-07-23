@@ -1,4 +1,4 @@
-TURBOGASPROPS
+TurboGasProps
 =============
 
 This program can be used to determine all fluid properties given two
