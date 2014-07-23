@@ -5,26 +5,25 @@ This program can be used to determine all fluid properties given two given condi
 
 Included Files
 --------------
-1. 
-(Fluid property files) 
-AIR.PPF 
-ARGON.FLD 
-C12.FLD 
-CO2.FLD 
-FLUORINE.FLD 
-HMX.BNC 
-HYDROGEN.FLD 
-METHANE.FLD 
-NITROGEN.FLD 
-OXYGEN.FLD 
-PROPANE.FLD 
-R134A.FLD 
-WATER.FLD 
-(Executable files) 
-TurboGasProps32.exe (32 bit version) 
-TurobGasProps64.exe (64 bit version) 
-(Output files) 
-There could be any number of other randomly named files (.txt or blank) these are user generated files.
+* (Fluid property files) 
+- AIR.PPF 
+- ARGON.FLD 
+- C12.FLD 
+- CO2.FLD 
+- FLUORINE.FLD 
+- HMX.BNC 
+- HYDROGEN.FLD 
+- METHANE.FLD 
+- NITROGEN.FLD 
+- OXYGEN.FLD 
+- PROPANE.FLD 
+- R134A.FLD 
+- WATER.FLD 
+- (Executable files) 
+- TurboGasProps32.exe (32 bit version) 
+- TurobGasProps64.exe (64 bit version) 
+- (Output files) 
+- There could be any number of other randomly named files (.txt or blank) these are user generated files.
 
 How to use
 ----------
